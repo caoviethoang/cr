@@ -1,16 +1,19 @@
 const CONFIG = {
-    introTitle: 'Kiều Anh này !',
-    introDesc: `Anh có điều này muốn nói với em ! `,
-    btnIntro: 'oke',
-    title: 'Anh biết là hơi đột ngột, nhưng anh nghĩ là nó cần thiết. Lời yêu thương của anh không còn giống những năm mười mấy tuổi, chỉ là, những hôm làm khuya, được trò chuyện với em là không còn mệt mỏi căng thẳng gì nữa hết. Tối qua mơ thấy em, sáng nay tỉnh dậy, điều đầu tiên anh nghĩ đến là em, nhất định hôm nay sẽ là 1 ngày tuyệt vời !  Anh có thể nắm tay, yêu thương, che chở cho em và cùng bước đi trên đoạn đường phía trước không ?',
-    desc: 'Trả lời anh nhé ! :> ',
-    btnYes: 'Em đồng ý',
-    btnNo: '...',
-    question:'Có muốn nói với anh điều gì không :)))',
-    btnReply: 'Gửi cho anh',
-    reply: 'Em cũng thích anh !',
-    mess: 'Cảm ơn em <3',
-    messDesc: 'Cuối tuần này đi chơi nhé =))',
-    btnAccept: 'Okiiiii',
-    messLink: 'https://www.facebook.com/hoangcv17/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
